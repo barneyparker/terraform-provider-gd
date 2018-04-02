@@ -1,0 +1,6 @@
+vendor/
+src
+terraform-provider-gd
+terraform.tfstate
+terraform.tfstate.backup
+*.tgz
